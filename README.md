@@ -1,3 +1,12 @@
-# Programming-and-Scripting-Project-2018.
-The Iris Data Set
-Sir Ronald Aylmer Fisher, (born February 17 1890 in London, England—died July 29 1962 in Adelaide, Australia. Sir Ronald Fisher was a British statistician and geneticist who pioneered the application of statistical procedures to the design of scientific (experiments.www.britannica.com/biography/Ronald-Aylmer-Fisher). he developed the iris flower set also called the Fisher's Iris set or the Anderson Iris datat set, which demonstrated the use of multiple measurements, collected by Edgar Anderson, in taxonomic problems as examples of linear discriminant analysis which separated the species from each other (Wikipedia), the data was used to quantify the morphologic variations of three related species of Iris flowers. Data was verifie using the same person collecting the data using the same tool and in the same field, the width and length of the sepals and petals were measured and the variety of Iris was noted.all measurements were in cm.(Wiki)
+# Programming-and-Scripting-Project-2018.)
+The Fisher Iris Data Set.
+
+#The Who, What and Where?
+
+'The Iris Data Set' aka 'The Fishers Set' aka The Andersons Iris Data Set' was developed in 1936 by Sir Ronald Aylmer Fisher (1890-1962). Sir Ronald Fisher was an English statistician and geneticist. He pioneered the application of statistical procedures to the design of scientific experiments. This was most evident in Gaspé Peninsula, the evidence which led to the formulation of linear discriminant was collected. Linear discriminant is where on uses multiple measurements in taxonomic problems, resulting in classification of an organism into specific or named groups based on common or shared characters.
+
+In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was the sole individual who collected and recorded the data in the Gaspé Peninsula, using the same measuring equipment and measuring in the same unit (cm). Three species of Iris were identified and classified based on their sepal width and length and the petal width and length.
+
+
+
+ (experiments.www.britannica.com/biography/Ronald-Aylmer-Fisher). 
