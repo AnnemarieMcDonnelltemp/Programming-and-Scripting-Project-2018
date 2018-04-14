@@ -1,7 +1,7 @@
 # Programming-and-Scripting-Project-2018.)
 The Fisher Iris Data Set.
 
-The Who, What and Where?
+# The Who, What and Where?
 
 'The Iris Data Set' aka 'The Fishers Set' aka The Andersons Iris Data Set' was developed in 1936 by Sir Ronald Aylmer Fisher (1890-1962). Sir Ronald Fisher was an English statistician and geneticist. He pioneered the application of statistical procedures to the design of scientific experiments. This was most evident in Gaspé Peninsula, the evidence which led to the formulation of linear discriminant was collected. Linear discriminant is where on uses multiple measurements in taxonomic problems, resulting in classification of an organism into specific or named groups based on common or shared characters.
 
