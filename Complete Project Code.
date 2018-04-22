@@ -1,17 +1,24 @@
-import numpy
+# Annemarie McDonnell April 2018.
+#Programming and Scripting Project 2018, Lecturer: Ian MLoughlin GMIT.
+#code for Fisher Iris Data.
+
+#import code from .cvs file using the following
+import numpy # useful when using the ipython function in visual studio
 data=open("data/iris.csv")
-print (data)
+print (data) #display data in a nice fashion.
 print (data.read())
 
+#matplot useful python to create and plot graphs
 import matplotlib.pyplot as pl
-import seaborn as sns
+import seaborn as sns #seaborn: statistical data visualization. Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 from sklearn import datasets, model_selection
 import warnings
 warnings.filterwarnings('ignore')
 import pandas as pd
 
-data=numpy.genfromtxt('data/iris.csv')
+data=numpy.genfromtxt('data/iris.csv') # pull in data through numpy
 
+#code for the investigation of the data set, to find the mean, max and min of the sepal & petal length and width.
 Sepal_length=data[:,0]
 meansepal_length=numpy.mean(data[:,0])
 print("Average of Sepal length is:", meansepal_length)
@@ -62,13 +69,13 @@ Petal_width=data[:,3]
 maxpetal_width=numpy.max(data[:,3])
 print("Maximum Petal width is:", maxpetal_width)
 
-#generate histogram for the lengths and widths.
+#generate histogram for the lengths and widths using the imported matplotlib.
 import matplotlib.pyplot as plt
 from sklearn import datasets
 iris= datasets.load_iris()
 
 fig, axes = plt.subplots(nrows= 2, ncols=2)
-colors= ['blue', 'red', 'green']
+colors= ['blue', 'red', 'green'] #identift separate colours to distinguish.
 
 for i, ax in enumerate(axes.flat):
     for label, color in zip(range(len(iris.target_names)), colors):
@@ -78,4 +85,4 @@ for i, ax in enumerate(axes.flat):
         ax.legend(loc='upper right')
 
 
-plt.show()
+plt.show() #show the histogram on separate screen.
