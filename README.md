@@ -1,4 +1,4 @@
-# Programming-and-Scripting-Project-2018.)
+# Programming-and-Scripting-Project-2018.
 The Fisher Iris Data Set.
 
 # The Who, What and Where?
@@ -10,3 +10,4 @@ In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was
 
 
 (www.britannica.com/biography/Ronald-Aylmer-Fisher). 
+http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
