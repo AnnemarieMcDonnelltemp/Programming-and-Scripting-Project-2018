@@ -11,3 +11,4 @@ In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was
 
 (www.britannica.com/biography/Ronald-Aylmer-Fisher). 
 http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
+https://www.scipy.org/install.html
