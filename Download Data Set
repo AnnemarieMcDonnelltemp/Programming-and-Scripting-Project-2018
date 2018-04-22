@@ -1,1 +1,28 @@
+import csv
+import numpy
+data=numpy.genfromtxt('data/iris1.csv',delimiter=',')
+print(data)
+import matplotlib.pyplot as pl
+import seaborn as sns
+from sklearn import datasets, model_selection
+import warnings
+warnings.filterwarnings('ignore')
+import pandas as pd
 
+data=numpy.genfromtxt('data/iris1.csv',delimiter=',')
+
+Sepal_length=data[:,0]
+meansepal_length=numpy.mean(data[:,0])
+print("Average of Sepal length is:", meansepal_length)
+
+Sepal_width=data[:,1]
+meansepal_width=numpy.mean(data[:,1])
+print("Average of Sepal width is:", meansepal_width)
+
+Petal_length=data[:,2]
+meanpetal_length=numpy.mean(data[:,2])
+print("Average of Petal length is:", meanpetal_length)
+
+Petal_width=data[:,3]
+meanpetal_width=numpy.mean(data[:,3])
+print("Average of Petal width is:", meanpetal_width)
