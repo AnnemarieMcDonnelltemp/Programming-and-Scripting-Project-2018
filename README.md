@@ -7,7 +7,7 @@ The Fisher Iris Data Set.
 
 In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was the sole individual who collected and recorded the data in the Gaspé Peninsula, using the same measuring equipment and measuring in the same unit (cm). Three species of Iris were identified and classified based on their sepal width and length and the petal width and length.
 
-# Software required.
+# Software required and used.
 
 The code in this project was written and tested in Visual studio download link: https://www.visualstudio.com
 
@@ -18,6 +18,10 @@ The anaconda program can be downloaded at the following link: https://anaconda.o
 Anaconda is a free and open source distribution of the Python and R programming languages for data science and machine learning related applications. Package versions are managed by the package management system conda, it is quite simple to install, run, and update complex data science and machine learning software libraries like Scikit-learn, TensorFlow, and SciPy. Anaconda Distribution is used by over 6 million users, and it includes more than 250 popular data science packages suitable for Windows, Linux, and MacOS. Release date for Anaconda was 6th September 2012. https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)
 
 Follow the links and on screen instructions to download the software.
+
+iPython is an automatic function once both are installed correctly it is a command shell for interactive computing in multiple programming languages, developed for the Python programming language. iPython provides the following features including Interactive shells, browser-based notebook with support for code, text, mathematical expressions, inline plots and other media. Support for interactive data visualization, and tools for parallel computing. https://en.wikipedia.org/wiki/IPython. This function was used in Visual Studio to write and check the outcome of code, the writer found this an advantage as it appeared to minimise the lines of code needed to produce a favourable outcome. There are a number of command history shortcuts which are also advantageous.
+
+
 
 
 
