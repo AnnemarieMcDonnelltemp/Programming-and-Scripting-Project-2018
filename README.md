@@ -19,7 +19,7 @@ Anaconda is a free and open source distribution of the Python and R programming 
 
 Follow the links and on screen instructions to download the software.
 
-iPython is an automatic function once both are installed correctly it is a command shell for interactive computing in multiple programming languages, developed for the Python programming language. iPython provides the following features including Interactive shells, browser-based notebook with support for code, text, mathematical expressions, inline plots and other media. Support for interactive data visualization, and tools for parallel computing. https://en.wikipedia.org/wiki/IPython. This function was used in Visual Studio to write and check the outcome of code, the writer found this an advantage as it appeared to minimise the lines of code needed to produce a favourable outcome. There are a number of command history shortcuts which are also advantageous.
+iPython is an automatic function once both are installed correctly it is a command shell for interactive computing in multiple programming languages, developed for the Python programming language. iPython provides the following features including Interactive shells, browser-based notebook with support for code, text, mathematical expressions, inline plots and other media. Support for interactive data visualization, and tools for parallel computing. https://en.wikipedia.org/wiki/IPython. This function was used in Visual Studio to write and check the outcome of code, the writer found this an advantage as it appeared to minimise the lines of code needed to produce a favourable outcome. There are a number of command history shortcuts which are also advantageous and found using an internet search engine, the writer used Google.
 
 
 
