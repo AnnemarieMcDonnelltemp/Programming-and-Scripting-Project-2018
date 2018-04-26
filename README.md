@@ -21,6 +21,26 @@ Follow the links and on screen instructions to download the software.
 
 iPython is an automatic function once both are installed correctly it is a command shell for interactive computing in multiple programming languages, developed for the Python programming language. iPython provides the following features including Interactive shells, browser-based notebook with support for code, text, mathematical expressions, inline plots and other media. Support for interactive data visualization, and tools for parallel computing. https://en.wikipedia.org/wiki/IPython. This function was used in Visual Studio to write and check the outcome of code, the writer found this an advantage as it appeared to minimise the lines of code needed to produce a favourable outcome. There are a number of command history shortcuts which are also advantageous and found using an internet search engine, the writer used Google.
 
+# The Nuts and Bolts or the Petals and Sepals!
+
+The data Iris set was imported form the directory root (iris.csv, which had been saved to the computer) in order to conduct some investigations on the numerical data.The data set is depicted by columns of numbers and each line ended with text identifying the iris species e.g.  6.4     2.8     5.6     2.1     Iris-virginica.From there the data table was separated to make it more aesthetically pleasing and easier to identify individual string. 
+
+The writer felt that the following investigations based on evolving knowledge would be sought:
+
+1.Average/mean of Sepal length.
+2.Average/mean of Sepal width.
+3.Average/mean of Petal length.
+4.Average/mean of Petal width.
+5.Minimum Sepal length.
+6.Minimum Sepal width.
+7.Minimum Petal length.
+8.Minimum Petal width.
+9.Maximum Sepal length.
+10.Maximum Sepal width.
+11.Maximum Petal length.
+12.Maximum Petal width.
+
+
 
 
 
