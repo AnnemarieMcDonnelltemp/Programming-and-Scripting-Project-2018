@@ -40,6 +40,11 @@ The writer felt that the following investigations based on evolving knowledge wo
 11.Maximum Petal length.
 12.Maximum Petal width.
 
+Once code was written for the above and results crosschecked from other online sources, the writer proceeded to write code to depict sepal widths and lengths for the various species, in pictorial form, mainly in the guise of a bar chart using matplotlib.pyplot which is (module matplotlib) an object-oriented plotting library.
+ 
+ A procedural interface is provided by the companion pyplot module, which may be imported directly, e.g.:import matplotlib.pyplot as plt.
+
+
 
 
 
