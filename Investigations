@@ -1,1 +1,50 @@
+#code for the investigation of the data set, to find the mean, max and min of the sepal & petal length and width.
+Sepal_length=data[:,0]
+meansepal_length=numpy.mean(data[:,0])
+print("Average of Sepal length is:", meansepal_length)
 
+Sepal_width=data[:,1]
+meansepal_width=numpy.mean(data[:,1])
+print("Average of Sepal width is:", meansepal_width)
+
+Petal_length=data[:,2]
+meanpetal_length=numpy.mean(data[:,2])
+print("Average of Petal length is:", meanpetal_length)
+
+Petal_width=data[:,3]
+meanpetal_width=numpy.mean(data[:,3])
+print("Average of Petal width is:", meanpetal_width)
+
+Sepal_length=data[:,0]
+minsepal_length=numpy.min(data[:,0])
+print("Minimum Sepal length is:", minsepal_length)
+
+Sepal_width=data[:,1]
+minsepal_width=numpy.min(data[:,1])
+print("Minimum Sepal width is:", minsepal_width)
+
+Petal_length=data[:,2]
+minpetal_length=numpy.min(data[:,2])
+print("Minimum Petal length is:", minpetal_length)
+
+Petal_width=data[:,3]
+minpetal_width=numpy.min(data[:,3])
+print("Minimum Petal width is:", minpetal_width)
+
+
+
+Sepal_length=data[:,0]
+maxsepal_length=numpy.max(data[:,0])
+print("Maximum Sepal length is:", maxsepal_length)
+
+Sepal_width=data[:,1]
+maxsepal_width=numpy.max(data[:,1])
+print("Maximum Sepal width is:", maxsepal_width)
+
+Petal_length=data[:,2]
+maxpetal_length=numpy.max(data[:,2])
+print("Maximum Petal length is:", maxpetal_length)
+
+Petal_width=data[:,3]
+maxpetal_width=numpy.max(data[:,3])
+print("Maximum Petal width is:", maxpetal_width)
