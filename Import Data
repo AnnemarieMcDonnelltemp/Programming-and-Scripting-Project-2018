@@ -1,0 +1,5 @@
+#import code from .cvs file using the following
+import numpy # useful when using the ipython function in visual studio
+data=open("data/iris.csv")
+print (data) #display data in a nice fashion.
+print (data.read())
