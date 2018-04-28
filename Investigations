@@ -1,4 +1,8 @@
+# Annemarie McDonnell April 2018.
+#Programming and Scripting Project 2018, Lecturer: Ian MLoughlin GMIT.
+#code for Fisher Iris Data.
 #code for the investigation of the data set, to find the mean, max and min of the sepal & petal length and width.
+
 Sepal_length=data[:,0]
 meansepal_length=numpy.mean(data[:,0])
 print("Average of Sepal length is:", meansepal_length)
