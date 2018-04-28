@@ -1,4 +1,8 @@
+# Annemarie McDonnell April 2018.
+#Programming and Scripting Project 2018, Lecturer: Ian MLoughlin GMIT.
+#code for Fisher Iris Data.
 #import code from .cvs file using the following
+
 import numpy # useful when using the ipython function in visual studio
 data=open("data/iris.csv")
 print (data) #display data in a nice fashion.
