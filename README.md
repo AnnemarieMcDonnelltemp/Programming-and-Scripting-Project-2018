@@ -1,9 +1,11 @@
 # Programming-and-Scripting-Project-2018.
 The Fisher Iris Data Set.
+Annemarie McDonnell.
+Student No:10024547.
 
 # The Who, What and Where?
 
-'The Iris Data Set' aka 'The Fishers Set' aka The Andersons Iris Data Set' was developed in 1936 by Sir Ronald Aylmer Fisher (1890-1962). Sir Ronald Fisher was an English statistician and geneticist. He pioneered the application of statistical procedures to the design of scientific experiments. This was most evident in Gaspé Peninsula, the evidence which led to the formulation of linear discriminant was collected. Linear discriminant is where on uses multiple measurements in taxonomic problems, resulting in classification of an organism into specific or named groups based on common or shared characters.
+'The Iris Data Set' aka 'The Fishers Set' aka The Andersons Iris Data Set' was developed in 1936 by Sir Ronald Aylmer Fisher (1890-1962). Sir Ronald Fisher was an English statistician and geneticist. He pioneered the application of statistical procedures to the design of scientific experiments(www.britannica.com/biography/Ronald-Aylmer-Fisher). This was most evident in Gaspé Peninsula, the evidence which led to the formulation of linear discriminant was collected. Linear discriminant is where on uses multiple measurements in taxonomic problems, resulting in classification of an organism into specific or named groups based on common or shared characters.
 
 In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was the sole individual who collected and recorded the data in the Gaspé Peninsula, using the same measuring equipment and measuring in the same unit (cm). Three species of Iris were identified and classified based on their sepal width and length and the petal width and length.
 
@@ -53,7 +55,10 @@ The writer felt that the following investigations based on evolving knowledge wo
 
 Once code was written for the above and results crosschecked from other online sources, the writer proceeded to write code to depict sepal widths and lengths for the various species, in pictorial form, mainly in the guise of a bar chart using matplotlib.pyplot which is (module matplotlib) an object-oriented plotting library, which may be imported directly, e.g.:import matplotlib.pyplot as plt.
 
+# Personal Findings.
 
-(www.britannica.com/biography/Ronald-Aylmer-Fisher). 
-http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
-https://www.scipy.org/install.html
+As the writer has had no previous coding skills, every day was a learning day. The analogy of learning to drive a car had been mentioned, well the engine has been started and slowly accelerated down the road. It appears also from many searches most individuals learn to drive with the data iris set, over a number of coding languages, and for this I am thankful. 
+
+
+
+
