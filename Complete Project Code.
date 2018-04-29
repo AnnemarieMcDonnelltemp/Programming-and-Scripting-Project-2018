@@ -69,6 +69,9 @@ Petal_width=data[:,3]
 maxpetal_width=numpy.max(data[:,3])
 print("Maximum Petal width is:", maxpetal_width)
 
+print("number of samples are:", data.shape)
+
+
 #generate histogram for the lengths and widths using the imported matplotlib.
 import matplotlib.pyplot as plt
 from sklearn import datasets
