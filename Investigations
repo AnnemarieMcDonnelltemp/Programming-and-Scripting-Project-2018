@@ -36,8 +36,6 @@ Petal_width=data[:,3]
 minpetal_width=numpy.min(data[:,3])
 print("Minimum Petal width is:", minpetal_width)
 
-
-
 Sepal_length=data[:,0]
 maxsepal_length=numpy.max(data[:,0])
 print("Maximum Sepal length is:", maxsepal_length)
