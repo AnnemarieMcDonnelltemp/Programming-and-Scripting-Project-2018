@@ -1,14 +1,15 @@
 # Annemarie McDonnell April 2018.
 #Programming and Scripting Project 2018, Lecturer: Ian MLoughlin GMIT.
 #code for Fisher Iris Data.
+
 #generate histogram for the lengths and widths using the imported matplotlib.
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #helps displays data
 from sklearn import datasets
 iris= datasets.load_iris()
 
 fig, axes = plt.subplots(nrows= 2, ncols=2)
-colors= ['blue', 'red', 'green'] #identift separate colours to distinguish.
+colors= ['blue', 'red', 'green'] #identify separate colours to distinguish on the chart.
 
 for i, ax in enumerate(axes.flat):
     for label, color in zip(range(len(iris.target_names)), colors):
@@ -18,4 +19,4 @@ for i, ax in enumerate(axes.flat):
         ax.legend(loc='upper right')
 
 
-plt.show() #show the histogram on separate screen.
+plt.show() #show the histogram on separate screen. 
