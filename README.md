@@ -13,9 +13,13 @@ In the Fisher Iris Data set the organism was the Iris flower. Edgar Anderson was
 
 # Software required and used.
 
+# 1.Visual Studio.
+
 The code in this project was written and tested in Visual studio download link: https://www.visualstudio.com
 
 Microsoft Visual Studio is an integrated development environment from Microsoft. It is used to develop computer programs, as well as web sites, web apps, web services and mobile apps. Visual Studio includes a code editor which supports IntelliSense (the code completion component) as well as code refactoring. The integrated debugger works both as a source and at machine-level. Initial release date Feb 2007 and the most recent update April 2018. https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+# 2.Anaconda.
 
 The anaconda program can be downloaded at the following link: https://anaconda.org
 
@@ -23,6 +27,7 @@ Anaconda is a free and open source distribution of the Python and R programming 
 
 Follow the links and on screen instructions to download the software.
 
+# 3: iPython.
 iPython is an automatic function once both are installed correctly it is a command shell for interactive computing in multiple programming languages, developed for the Python programming language. iPython provides the following features including Interactive shells, browser-based notebook with support for code, text, mathematical expressions, inline plots and other media. Support for interactive data visualization, and tools for parallel computing. https://en.wikipedia.org/wiki/IPython. This function was used in Visual Studio to write and check the outcome of code, the writer found this an advantage as it appeared to minimise the lines of code needed to produce a favourable outcome. There are a number of command history shortcuts which are also advantageous and found using an internet search engine, the writer used Google.
 
 # The Nuts and Bolts or the Petals and Sepals! (Investigations).
