@@ -62,9 +62,9 @@ The writer felt that the following investigations based on evolving knowledge wo
 
 Once code was written for the above and results crosschecked from other online sources, the writer proceeded to write code to depict sepal widths and lengths for the various species, in pictorial form, mainly in the guise of a bar chart using matplotlib.pyplot which is (module matplotlib) an object-oriented plotting library, which may be imported directly, e.g.:import matplotlib.pyplot as plt.
 
-# Personal Findings.
+# Personal Findings and new learning.
 
-As the writer has had no previous coding skills, every day was a learning day. The analogy of learning to drive a car had been mentioned, well the engine has been started and slowly accelerated down the road. It appears also from many searches most individuals learn to drive with the data iris set, over a number of coding languages, and for this I am thankful. 
+As the writer has had no previous coding skills, every day was a learning day. While most of the learning came from tutorials and lectures, that information was consolodated, built upon and applied to a real world example in writing the investigation and importing code. The main area that consumed time and research was trying to produce the histogram, the writer stumbled and failed on numerous occassions to produce favourable results. iPython was not working for the writer and reverted to a pen and paper exercise resulting in writing step by step code until a result worked. The flash of the histogram image was truly a sence of achievement. The analogy of learning to drive a car had been mentioned, well the engine has been started and slowly accelerated down the road. It appears also from many searches most individuals learn to drive with the data iris set, over a number of coding languages, and for this I am thankful. 
 
 
 
